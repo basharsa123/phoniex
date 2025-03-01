@@ -1,3 +1,18 @@
+<p>
+    <h1>PHONIEX</h1>
+    Full e-commerce Api Using Jwt Authntication sytem .
+    that project contains the next tables :
+    <ul>
+    <li>-Users.</li>
+    <li>-Products.</li>
+    <li>-Categories.</li>
+    <li>-Brands.</li>
+    <li>-Location.</li>
+    <li>-Orders.</li>
+    <li>-Order_items.</li>
+    </ul>
+    
+</p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
